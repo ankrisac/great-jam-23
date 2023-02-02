@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README.md
+!meson.build
+
+!src
+!src/*
+
+!subprojects
+!subprojects/glfw.wrap
+!subprojects/glad
+!subprojects/glad/meson.build

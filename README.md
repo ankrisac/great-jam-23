@@ -1,1 +1,1 @@
-# great-jam-23
+# WGJ 2023
